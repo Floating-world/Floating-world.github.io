@@ -3,12 +3,28 @@
     <title>浮世さん の 個人ブログ</title>
     <link href="https://Floating-world.github.io/feed.xml" rel="self" />
     <link href="https://Floating-world.github.io" />
-    <updated>2025-01-26T19:03:47+08:00</updated>
+    <updated>2025-01-26T20:48:30+08:00</updated>
     <author>
         <name>FLoatingWorld</name>
     </author>
     <id>https://Floating-world.github.io</id>
 
+    <entry>
+        <title>B站链接</title>
+        <author>
+            <name>FLoatingWorld</name>
+        </author>
+        <link href="https://Floating-world.github.io/bzhan-lian-jie.html"/>
+        <id>https://Floating-world.github.io/bzhan-lian-jie.html</id>
+
+        <updated>2025-01-26T20:48:27+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy" src="bilibili:BV1vr421g73D" alt=""  data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>测试一下</title>
         <author>
