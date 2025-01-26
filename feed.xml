@@ -21,7 +21,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://Floating-world.github.io/media/posts/1/Kai-Tuo-Zhe-Xiao-Wan-Xiong.jpg" alt="" width="1063" height="1151" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-xs.jpg 640w ,https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-sm.jpg 768w ,https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-md.jpg 1024w ,https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-lg.jpg 1366w ,https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-xl.jpg 1600w ,https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-2xl.jpg 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://Floating-world.github.io/media/posts/1/Kai-Tuo-Zhe-Xiao-Wan-Xiong.jpg" alt="" width="1063" height="1151" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-xs.jpg 320w ,https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-sm.jpg 480w ,https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-md.jpg 768w ,https://Floating-world.github.io/media/posts/1/responsive/Kai-Tuo-Zhe-Xiao-Wan-Xiong-xl.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
