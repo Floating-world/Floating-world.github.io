@@ -3,7 +3,7 @@
     <title>浮世さん の 個人ブログ</title>
     <link href="https://Floating-world.github.io/feed.xml" rel="self" />
     <link href="https://Floating-world.github.io" />
-    <updated>2025-01-26T20:53:10+08:00</updated>
+    <updated>2025-01-26T20:57:37+08:00</updated>
     <author>
         <name>FLoatingWorld</name>
     </author>
@@ -21,8 +21,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__video"><video loading="lazy" width="732" height="364" style="width: 732px; height: 364px;" controls="controls" data-mce-fragment="1">
-<source src="https://www.bilibili.com/video/BV1KP4y127Dd/?spm_id_from=333.999.0.0" /></video></figure>
+                <div class="post__iframe"><iframe loading="lazy" width="598" height="299" style="width: 749px; height: 370px;" src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=742558004&amp;bvid=BV1Tk4y1u7LR&amp;cid=1172069334&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
