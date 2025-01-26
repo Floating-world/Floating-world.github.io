@@ -10,17 +10,17 @@
     },
     "items": [
         {
-            "id": "https://Floating-world.github.io/bzhan-lian-jie.html",
-            "url": "https://Floating-world.github.io/bzhan-lian-jie.html",
-            "title": "B站链接",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\" src=\"bilibili:BV1vr421g73D\" alt=\"\"  data-is-external-image=\"true\"></figure>",
+            "id": "https://Floating-world.github.io/bzhan-ce-shi.html",
+            "url": "https://Floating-world.github.io/bzhan-ce-shi.html",
+            "title": "B站测试",
+            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"732\" height=\"364\" style=\"width: 732px; height: 364px;\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://www.bilibili.com/video/BV1KP4y127Dd/?spm_id_from=333.999.0.0\" /></video></figure>",
             "author": {
                 "name": "FLoatingWorld"
             },
             "tags": [
             ],
-            "date_published": "2025-01-26T20:48:27+08:00",
-            "date_modified": "2025-01-26T20:48:30+08:00"
+            "date_published": "2025-01-26T20:53:06+08:00",
+            "date_modified": "2025-01-26T20:53:10+08:00"
         },
         {
             "id": "https://Floating-world.github.io/ce-shi-yi-xia.html",
